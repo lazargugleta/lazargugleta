@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=lazargugleta.com&style=for-the-badge&url=https%3A%2F%2Flazargugleta.com)](https://lazargugleta.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/LazarGugleta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?LazarGugleta&screen_name=LazarGugleta)
 
-## I'm a Student, Developer, Mentor, and Friend!!
+## I'm a Student, Developer and Mentor!
 
 - 🔭 I just joined Google as a [GDSC Lead][google_link] 
 - 🌱 Started Master's with Major in Data Science
@@ -57,7 +57,7 @@
 ---
 
 <!-- GITHUB STATS -->
-<!-- [![Lazar's github stats](https://github-readme-stats.vercel.app/api?username=lazargugleta)](https://github.com/lazargugleta/github-readme-stats) -->
+[![Lazar's github stats](https://github-readme-stats.vercel.app/api?username=lazargugleta)](https://github.com/lazargugleta/github-readme-stats)
 
 
 [website]: https://lazargugleta.com/
