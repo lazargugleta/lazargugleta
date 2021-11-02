@@ -54,15 +54,13 @@
 
 ➡️ [more blog posts...][medium]
 
----
-
 <!-- GITHUB STATS -->
-[![Lazar's github stats](https://github-readme-stats.vercel.app/api?username=lazargugleta)](https://github.com/lazargugleta/github-readme-stats)
+<!-- [![Lazar's github stats](https://github-readme-stats.vercel.app/api?username=lazargugleta)](https://github.com/lazargugleta/github-readme-stats) -->
 
 
 [website]: https://lazargugleta.com/
 [twitter]: https://twitter.com/LazarGugleta
-[youtube]: https://youtu.be/yH8j8sscMpc
+[youtube]: https://www.youtube.com/channel/UCB6J5H3i7Ehm61lYdMK4b0A
 [instagram]: https://instagram.com/lazar_gugleta
 [linkedin]: https://linkedin.com/in/lazargugleta
 [medium]: https://medium.com/@lazar.gugleta
