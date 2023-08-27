@@ -3,22 +3,20 @@
 [![Website](https://img.shields.io/website?label=lazargugleta.com&style=for-the-badge&url=https%3A%2F%2Flazargugleta.com)](https://lazargugleta.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/LazarGugleta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?LazarGugleta&screen_name=LazarGugleta)
 
-## I'm a Student, Developer and Mentor!
+## I'm a Data Scientist and a Mentor!
 
 - 🧑🏽‍💼 Working as a Data Scientist at [TTTech Auto][tttech_link]
 - 🔭 Just joined Google as a [GDSC Lead][google_link] 
-- 🌱 Finished Master's with Major in Data Science
+- 🌱 Finished Master's with a Major in Data Science
 - 🥅 Open Source contributions (especially at [LineaPy][linea_link])
-- 👯 Mentor and teaching assistant 
+- 👯 Mentor and teaching assistant
 - ⚡ Fun fact: I love to go the gym and write DS/Python articles on [medium]
 
 ### Connect with me:
 
 [<img align="left" alt="lazargugleta.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="lazargugleta | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="lazargugleta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="lazargugleta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="lazargugleta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="lazargugleta | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
