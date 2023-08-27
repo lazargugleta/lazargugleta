@@ -5,11 +5,12 @@
 
 ## I'm a Student, Developer and Mentor!
 
-- 🔭 I just joined Google as a [GDSC Lead][google_link] 
-- 🌱 Started Master's with Major in Data Science
+- 🧑🏽‍💼 Working as a Data Scientist at [TTTech Auto][tttech_link]
+- 🔭 Just joined Google as a [GDSC Lead][google_link] 
+- 🌱 Finished Master's with Major in Data Science
 - 👯 Mentor and teaching assistant 
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to go the gym and write DS and Python articles on [medium]
+- ⚡ Fun fact: I love to go the gym and write DS/Python articles on [medium]
 
 ### Connect with me:
 
@@ -65,3 +66,4 @@
 [linkedin]: https://linkedin.com/in/lazargugleta
 [medium]: https://medium.com/@lazar.gugleta
 [google_link]: https://gdsc.community.dev/u/m67t5v/
+[tttech_link]: https://www.tttech-auto.com/
