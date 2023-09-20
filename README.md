@@ -6,8 +6,8 @@
 ## I'm a Data Scientist and a Mentor!
 
 - 🧑🏽‍💼 Working as a Data Scientist at [TTTech Auto][tttech_link]
-- 🔭 Just joined Google as a [GDSC Lead][google_link] 
 - 🌱 Finished Master's with a Major in Data Science
+- 🔭 Joined Google as a [GDSC Lead][google_link] 
 - 🥅 Open Source contributions (especially at [LineaPy][linea_link])
 - 👯 Mentor and teaching assistant
 - ⚡ Fun fact: I love to go the gym and write DS/Python articles on [medium]
