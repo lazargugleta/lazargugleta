@@ -16,6 +16,8 @@ Product Owner & Data Architect at [Helvetia][helvetia] and PhD candidate in AI s
 
 **Stack:** Python · Rust · SQL · Databricks · MS Fabric · Spark · Polars · Airflow · PyTorch · LangChain · RAG / MCP · Docker · Kubernetes · AWS · Azure
 
+📄 More in my [CV](https://lazargugleta.com/src/Lazar_Gugleta_CV.pdf)
+
 ### 📕 Selected writing
 
 - [Why Polars Destroys Pandas in All Possible Ways](https://medium.com/towards-artificial-intelligence/why-polars-destroys-pandas-in-all-possible-ways-for-data-scientists-cea244fedd53) *(41k+ reads)*
